@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praduman Sharma</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Creating GUI to Extract Lyrics from Songs Using Python**
+- 🔭 I’m currently working on **Creating a Desktop Assitent Using Python**
 
 - 🌱 I’m currently learning **AI & ML**
 
