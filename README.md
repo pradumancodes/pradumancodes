@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/pradumancodes"><img src="https://img.shields.io/github/followers/pradumancodes?label=Follow&style=social"></a>
   <a href="mailto:praduman0571@gmail.com"><img src="https://img.shields.io/badge/Email-praduman0571@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://pradumancodes.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-informational?style=flat-square&logo=githubpages"></a>
+  <a href="https://portfolio-vite-react-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-informational?style=flat-square&logo=githubpages"></a>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 <p align="left">
   <a href="mailto:praduman0571@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pradumansharma"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/praduman._.sharma"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/pixel.praduman"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
