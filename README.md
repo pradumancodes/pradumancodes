@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Praduman Sharma</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Creative Coder from India 🇮🇳</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Python Full Stack Developer | Real-World AI & Automation Projects | Creative Coder from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://github.com/pradumancodes"><img src="https://img.shields.io/github/followers/pradumancodes?label=Follow&style=social"></a>
