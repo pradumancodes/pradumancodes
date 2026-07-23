@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Praduman+Sharma+%F0%9F%91%8B;Data+Engineer+%7C+LLM+Engineer;AI+Automation+Engineer;Building+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praduman+Sharma+%F0%9F%91%8B;Data+Engineer+%7C+LLM+Engineer;Agentic+AI+Engineer+%7C+ML+Engineer;AI+Automation+Engineer;Building+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-**Data Engineer · LLM Engineer · AI Automation Engineer**  
-*Building reliable, production-grade AI systems from Noida, India 🇮🇳*
+**Data Engineer · LLM Engineer · Agentic AI Engineer · ML Engineer · AI Automation Engineer**
+*Building reliable, production-grade AI systems* 🚀
 
 <br/>
 
-![Open To Work](https://img.shields.io/badge/🟢%20Open%20To%20Work-Available-2563EB?style=for-the-badge&labelColor=1e3a5f)
-![Experience](https://img.shields.io/badge/Experience-1yr%20Production%20AI-7C3AED?style=for-the-badge&labelColor=2e1065)
-![Location](https://img.shields.io/badge/📍%20Noida-Uttar%20Pradesh-0F766E?style=for-the-badge&labelColor=134e4a)
-![Degree](https://img.shields.io/badge/B.Tech-AIML%20'25-DB2777?style=for-the-badge&labelColor=500724)
+![Open To Work](https://img.shields.io/badge/🟢_Open_To_Work-Available-2563EB?style=for-the-badge&labelColor=1e3a5f)
+![Experience](https://img.shields.io/badge/Experience-1yr_Production_AI-7C3AED?style=for-the-badge&labelColor=2e1065)
+![AI Agents](https://img.shields.io/badge/Agentic_AI-Builder-DB2777?style=for-the-badge&labelColor=500724)
+![Python](https://img.shields.io/badge/Python-Expert-0F766E?style=for-the-badge&labelColor=134e4a)
 
 <br/>
 
@@ -31,18 +30,19 @@
 ```python
 class PradumanSharma:
     def __init__(self):
-        self.role       = ["Data Engineer", "LLM Engineer", "AI Automation Engineer"]
-        self.location   = "Noida, Uttar Pradesh, India 🇮🇳"
-        self.company    = "Diglip7 (Nov 2025 – Present)"
-        self.education  = "B.Tech CSE (AI & ML) — KMCLU Lucknow | 82.5%"
-
-        self.core_stack = ["Python", "LangChain", "RAG", "n8n", "OpenAI API", "FastAPI"]
-        self.databases  = ["PostgreSQL", "MongoDB", "FAISS", "ChromaDB", "Redis", "MySQL"]
-        self.currently  = "Building production AI pipelines, RAG systems & LLM agents"
-        self.looking_for = "AI / Data Engineer roles at product companies"
+        self.role        = [
+            "Data Engineer", "LLM Engineer",
+            "Agentic AI Engineer", "ML Engineer",
+            "AI Automation Engineer"
+        ]
+        self.company     = "Diglip7 (Nov 2025 – Present)"
+        self.core_stack  = ["Python", "LangChain", "RAG", "AI Agents", "n8n", "FastAPI"]
+        self.databases   = ["PostgreSQL", "MongoDB", "FAISS", "ChromaDB", "Redis"]
+        self.currently   = "Building agentic AI pipelines, RAG systems & LLM workflows"
+        self.looking_for = "AI / Data / Agentic AI Engineer roles at product companies"
 
     def say_hi(self):
-        print("Ask me about LangChain, RAG, asyncio, n8n, FAISS or anything AI/Python!")
+        print("Ask me about LangChain, RAG, AI Agents, asyncio, n8n or anything AI/Python!")
 ```
 
 ---
@@ -51,7 +51,7 @@ class PradumanSharma:
 
 <div align="center">
 
-| 📉 Manual Effort Cut | 🚀 Latency Reduced | 🟢 Pipeline Uptime | 📄 Docs in RAG |
+| 📉 Manual Effort Cut | 🚀 Latency Reduced | 🟢 Pipeline Uptime | 📄 Docs in RAG Corpus |
 |:---:|:---:|:---:|:---:|
 | **~60%** | **~35%** | **99%+** | **50,000+** |
 
@@ -71,15 +71,17 @@ class PradumanSharma:
 ![Celery](https://img.shields.io/badge/Celery-Task_Queue-37814A?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🤖 AI / LLM
+### 🤖 AI / LLM / Agentic AI
 ![LangChain](https://img.shields.io/badge/LangChain-Pipelines-1C3C3C?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_Workflows-7C3AED?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Production-2563EB?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-GPT_4-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-0075C4?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Embeddings-F97316?style=flat-square)
-![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-Expert-7C3AED?style=flat-square)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-Expert-DB2777?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-LoRA%2FPEFT-5B21B6?style=flat-square)
 
 ### 🗄️ Backend & Data Engineering
 ![FastAPI](https://img.shields.io/badge/FastAPI-APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -187,14 +189,8 @@ End-to-end NLP classification pipeline for hate speech detection on social media
 
 ---
 
-## 🎓 Education & Certifications
+## 📜 Certifications
 
-| Degree | Institution | Score | Year |
-|--------|-------------|-------|------|
-| 🎓 B.Tech – CSE (AI & ML) | Khwaja Moinuddin Chishti Language University, Lucknow | **82.5%** | 2022–2025 |
-| 📜 Diploma – Electrical Engineering | M.M.I.T Kasganj, UP | **72%** | 2019–2022 |
-
-**Certifications:**
 - 📊 Career Essentials in **Data Analysis** — Microsoft & LinkedIn Learning
 - 🤖 Career Essentials in **Generative AI** — Microsoft & LinkedIn Learning
 - 🔍 Generative AI: The Evolution of Thoughtful Online Search — LinkedIn Learning
@@ -213,7 +209,7 @@ End-to-end NLP classification pipeline for hate speech detection on social media
 
 <br/>
 
-*Open to AI Engineer · Data Engineer · LLM Engineer roles*  
+*Open to — Data Engineer · LLM Engineer · Agentic AI Engineer · ML Engineer · AI Automation Engineer*
 *DM me on LinkedIn — response guaranteed within 24hrs* ⚡
 
 <br/>
