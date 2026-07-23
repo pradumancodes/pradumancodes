@@ -30,11 +30,7 @@
 ```python
 class PradumanSharma:
     def __init__(self):
-        self.role        = [
-            "Data Engineer", "LLM Engineer",
-            "Agentic AI Engineer", "ML Engineer",
-            "AI Automation Engineer"
-        ]
+        self.role        = "Data Engineer | LLM Engineer | Agentic AI Engineer | ML Engineer"
         self.company     = "Diglip7 (Nov 2025 – Present)"
         self.core_stack  = ["Python", "LangChain", "RAG", "AI Agents", "n8n", "FastAPI"]
         self.databases   = ["PostgreSQL", "MongoDB", "FAISS", "ChromaDB", "Redis"]
